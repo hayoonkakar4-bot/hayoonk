@@ -1,0 +1,57 @@
+li{
+    background-color:aquamarine;
+    color: rgb(23, 3, 46);
+     font-style: italic;
+}
+body{
+    background-color: rgb(27, 172, 216);
+}
+li2{
+   background-color: aquamarine;
+   color: crimson;
+    font-style: italic;
+}
+h1{
+    font-size: 60px ;
+    color: rgb(0, 255, 234);
+}
+p3{
+    background-color: aquamarine;
+     font-style: italic;
+}
+p2{
+    background-color: aquamarine;
+     font-style: italic;
+}
+p1{
+    background-color: rgb(255, 0, 0);
+     font-style: italic;
+}
+p{
+    background-color:aquamarine;
+     font-style: italic;
+}
+li3{
+    background-color: aquamarine;
+    font-size: larger;
+     font-style: italic;
+}
+h2{
+    font-size: 40px;
+    color: brown;
+}
+h3{
+    font-size: 40px;
+    color: brown;
+}
+h4{
+    font-size: 40px;
+    color: brown;
+}
+h5{
+    font-size: 40px;
+    color: brown;
+}
+h6{
+    font-size: 50px;
+}

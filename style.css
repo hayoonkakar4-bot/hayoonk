@@ -1,0 +1,59 @@
+body {
+    /* Set the background image */
+    background-image: url(../2372.jpg);
+
+    /* Position it at the top center */
+    background-position: top center;
+
+    /* Prevent it from repeating */
+    background-repeat: no-repeat;
+
+    /* Make it cover the full width */
+    background-size: cover;
+
+    /* Optional: Fix it so it stays in place when scrolling */
+    background-attachment: fixed;
+}
+h1{
+    color: brown;
+    font-size: 49px;
+}
+p1{
+    color: rgb(179, 18, 71);
+    font-size: 30px;
+    font-style: oblique;
+}
+p{
+        color: rgb(179, 18, 40);
+    font-size: 30px;
+    font-style: oblique;
+}
+h3{
+    font-size: 60px;
+    background-color: aqua;
+}
+h4{
+        color: rgb(179, 18, 71);
+    font-size: 30px;
+    font-style: oblique;
+}
+i{
+    color: rgb(9, 26, 24);
+    font-size: xx-large;
+}
+h2{
+    font-size: 52px;
+    
+}
+dd{
+    font-size: 30px;
+    color: rgb(255, 80, 80);
+}
+dl{
+    font-size: 20px;
+    color: rgb(236, 36, 36);
+}
+button{
+    font-size: xx-large;
+    font-style: italic;
+}
